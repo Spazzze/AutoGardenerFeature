@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<root>
+    <game>CryoFall</game>
+    <id>AutomatonGardeningFeature</id>
+    <title>Automaton Gardening Feature</title>
+    <author>LenaSpace:Discord:Space#2570</author>
+    <description>Auto gardener which automatically waters and fertilizes plants with item from your hands.</description>
+    <version>0.1.0</version>
+    <updated>07.08.2020</updated>
+    <modtype>3</modtype>
+</root>

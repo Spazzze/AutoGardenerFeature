@@ -1,0 +1,20 @@
+﻿Scripts/Automaton/Features/FeatureAutoGardening@Name:
+АвтоСадовник
+
+Scripts/Automaton/Features/FeatureAutoGardening@Description:
+Автоматически поливает или удобряет растения, если в руках есть нужный предмет.
+
+Scripts/Automaton/Features/FeatureAutoWoodcutting@UseWateringCansString:
+Использовать лейки.
+
+Scripts/Automaton/Features/FeatureAutoWoodcutting@UseWateringGranulesString:
+Использовать гигроскопические гранулы.
+
+Scripts/Automaton/Features/FeatureAutoWoodcutting@PlantsForWateringString:
+Поливать растения из списка: 
+
+Scripts/Automaton/Features/FeatureAutoWoodcutting@UseFertilizersString:
+Использовать удобрения.
+
+Scripts/Automaton/Features/FeatureAutoWoodcutting@PlantsForFertilizingString:
+Удобрять растения из списка: 
